@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-[Alcedinidae](https://codeberg.org/Alcedinidae)</div>
+[Alcedinidae](https://codeberg.org/Alcedinidae)
 
 Alcedinidae Free Softwares 🧑‍💻👩🏼‍💻👨🏿‍💻  vous propose gratuitement (bientôt) des logiciels ✨  Performants , 🆓 Open source et 🎉 Modifiables à souhait selon vos besoins.
 
