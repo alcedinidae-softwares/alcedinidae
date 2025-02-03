@@ -1,9 +1,8 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+#### Alcedinidae est actuellement composée de 2 membres.
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour nous contacter : [alcedinidae@disroot.org](mailto:alcedinidae@disroot.org) 
