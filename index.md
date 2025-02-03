@@ -1,8 +1,18 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+[Alcedinidae](https://codeberg.org/Alcedinidae)</div>
 
-# L'Échappée Belle
+Alcedinidae Free Softwares 🧑‍💻👩🏼‍💻👨🏿‍💻  vous propose gratuitement (bientôt) des logiciels ✨  Performants , 🆓 Open source et 🎉 Modifiables à souhait selon vos besoins.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Pour l'instant, les projets de Alcedinidae sont en phase de préparation mais l'on vous donne quand même la liste ici :
+
+- [Automatik](https://codeberg.org/Alcedinidae/Automatik) (gestionnaire de tâches automatiques)
+
+- [Gamebox](https://codeberg.org/Alcedinidae/Gamebox) (Gameboy en ligne de commande)
+
+Vous pourvez les téléchargez si vous voulez mais sachez qui n'ont que très peu de fonctionnalités.
+
+Bonne journée à vous et merci d'avoir lu cet article👍 
