@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 2
 in_menu: true
 ---
 #### Alcedinidae est actuellement composée de 2 membres.
